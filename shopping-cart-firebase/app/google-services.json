@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "713368901251",
+    "project_id": "java-firebase-tutorial-f0a05",
+    "storage_bucket": "java-firebase-tutorial-f0a05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713368901251:android:c79b37584a847e0b99adb6",
+        "android_client_info": {
+          "package_name": "il.example.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHOVeSi41SpNWp9Cp0SmtViytWCVDHncc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
